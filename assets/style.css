@@ -1,0 +1,30 @@
+#train-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+}
+
+/* 
+
+
+
+
+
+
+/* body, html {
+    height: 100%;
+}
+
+#bg { 
+    /* The image used */
+    /* background-image: url("assets/images/train.jpg"); */
+
+    /* Full height */
+    /* height: 100%;  */
+
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    */ 
