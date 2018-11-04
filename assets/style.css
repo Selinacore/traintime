@@ -1,30 +1,26 @@
+body {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 18px;
+}
+
+
+
+
+
 #train-table th,
 td {
+  background-color: antiquewhite;
   display: inline-block;
   width: 16.575%;
 }
 
-/* 
 
 
 
 
 
 
-/* body, html {
-    height: 100%;
-}
 
-#bg { 
-    /* The image used */
-    /* background-image: url("assets/images/train.jpg"); */
 
-    /* Full height */
-    /* height: 100%;  */
 
-    /* Center and scale the image nicely */
-    /* background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-    */ 
+
